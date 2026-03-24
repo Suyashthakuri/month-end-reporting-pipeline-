@@ -113,4 +113,3 @@ month-end-reporting-pipeline/
 
 ---
 
-*Built as part of a reporting analytics portfolio targeting Reporting Analyst and BI Analyst roles in Sydney, Australia.*
